@@ -1,5 +1,7 @@
 ALL my SQL challenges from XomData
 
+250+ SQL problems on retention, LTV, churn, funnel and window functions — solved and documented
+
 <!-- xomdata:stats:start -->
 
 **258** problems solved on [Xom Data](https://xomdata.com/practice).
