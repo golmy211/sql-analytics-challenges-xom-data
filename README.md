@@ -4,26 +4,26 @@ ALL my SQL challenges from XomData
 
 <!-- xomdata:stats:start -->
 
-**258** problems solved on [Xom Data](https://xomdata.com/practice).
+**285** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 1 | 0 | 0 | 0 | 1 |
-| SQL | 88 | 119 | 49 | 1 | 257 |
+| Python | 15 | 0 | 0 | 0 | 15 |
+| SQL | 88 | 119 | 60 | 3 | 270 |
 
 **Recently solved**
 
-- [py-average](https://xomdata.com/practice/py-average) · Easy · 2026-11-04
-- [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-11-04
-- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-11-04
-- [hard-ltv-003](https://xomdata.com/practice/hard-ltv-003) · Hard · 2026-11-03
-- [hard-ltv-002](https://xomdata.com/practice/hard-ltv-002) · Hard · 2026-11-03
-- [hard-churn-001](https://xomdata.com/practice/hard-churn-001) · Hard · 2026-11-03
-- [expert-final-multi-007](https://xomdata.com/practice/expert-final-multi-007) · Nightmare · 2026-11-03
-- [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-11-03
-- [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-11-03
-- [hard-streak-002](https://xomdata.com/practice/hard-streak-002) · Hard · 2026-11-02
+- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-11-08
+- [expert-final-agg-001](https://xomdata.com/practice/expert-final-agg-001) · Nightmare · 2026-11-08
+- [py-vowels](https://xomdata.com/practice/py-vowels) · Easy · 2026-11-08
+- [py-min-value](https://xomdata.com/practice/py-min-value) · Easy · 2026-11-08
+- [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-11-08
+- [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-11-08
+- [py-number-sign](https://xomdata.com/practice/py-number-sign) · Easy · 2026-11-08
+- [py-most-frequent](https://xomdata.com/practice/py-most-frequent) · Easy · 2026-11-08
+- [hard-churn-007](https://xomdata.com/practice/hard-churn-007) · Hard · 2026-11-08
+- [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-11-08
 
-_Synced 258 solutions · last update 2026-11-05_
+_Synced 285 solutions · last update 2026-11-08_
 
 <!-- xomdata:stats:end -->
