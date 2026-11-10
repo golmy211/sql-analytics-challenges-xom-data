@@ -283,5 +283,16 @@
   "practice/python/easy/py-min-value/solution.py": "2e0d33d8947500d65f6418c3e31b25c06d86e8485ac5b232362a57b7d9634dc3",
   "practice/python/easy/py-vowels/solution.py": "17d6d58f1ca6bc080bca2a09e0ea02cfa79c577c0b9d87bcc8c2bc9dacfea76e",
   "practice/sql/nightmare/expert-final-agg-001/solution.sql": "081e2255d659031b2caf9f71b60118640d7f60f1464fa885b9f231ab484e9bf9",
-  "practice/sql/nightmare/sql-nightmare-003/solution.sql": "181ccc1a0eae21476145ea0e0a7cc12fe62ed1368d7b9aedc37bfacc4312020d"
+  "practice/sql/nightmare/sql-nightmare-003/solution.sql": "181ccc1a0eae21476145ea0e0a7cc12fe62ed1368d7b9aedc37bfacc4312020d",
+  "practice/python/easy/py-count-even/solution.py": "c7f6600a271dbdc0e159c4ab4249b0c4d014d2f2c2cfa9ac5ae48d39bb4a8dbf",
+  "practice/python/easy/py-vnd-to-usd/solution.py": "a174ab157014b51d4171e41e00491624aa6dcfd1432cb828caa3fff979e1774c",
+  "practice/python/easy/py-count-digits/solution.py": "cb7ae88653cafe65867c927daf83620f016c8b643e732a646cf943e650fa1ce6",
+  "practice/python/easy/py-in-range/solution.py": "73011b7ec1775f522dd8b52c58fb645d6d94bccfaaab5a28dca3d60f4ee45f55",
+  "practice/sql/hard/hard-ltv-004/solution.sql": "6cad24543c50d20eebece2b4db03a047ca4988f92669211b9c7d2024d7186694",
+  "practice/python/easy/py-count-value/solution.py": "e2d9577923129495b3927ca4a6223dcf33004039acedf1dda189188fd5522422",
+  "practice/sql/nightmare/sql-nightmare-001/solution.sql": "c1d5847dee69ce99a8fb782ee7e969bd4e43add5eb51edd9f51cbbe4612c4329",
+  "practice/sql/nightmare/expert-final-subq-003/solution.sql": "f45d4dcefe41c2ffee4da6f9a8c3a21448c56dde9e32dd348c57e0bd2801372b",
+  "practice/sql/nightmare/sql-nightmare-008/solution.sql": "10db70641901a3914fd4839832707966673a7d3c9bafd9085fb315e6405323f8",
+  "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "e48af7c000526459e53e202326f3b18b13be28ab0daa00f362e256f11b1a8b78",
+  "practice/sql/nightmare/nightmare-streak-001/solution.sql": "c83d44aed200d9d203e9c12f99f76a2919606851c6b7895035425362f623945f"
 }
