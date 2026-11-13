@@ -4,26 +4,26 @@ ALL my SQL challenges from XomData
 
 <!-- xomdata:stats:start -->
 
-**296** problems solved on [Xom Data](https://xomdata.com/practice).
+**315** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 20 | 0 | 0 | 0 | 20 |
-| SQL | 88 | 119 | 61 | 8 | 276 |
+| Python | 30 | 0 | 0 | 0 | 30 |
+| SQL | 88 | 119 | 63 | 15 | 285 |
 
 **Recently solved**
 
-- [nightmare-streak-001](https://xomdata.com/practice/nightmare-streak-001) · Nightmare · 2026-11-10
-- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-11-10
-- [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-11-09
-- [expert-final-subq-003](https://xomdata.com/practice/expert-final-subq-003) · Nightmare · 2026-11-09
-- [sql-nightmare-001](https://xomdata.com/practice/sql-nightmare-001) · Nightmare · 2026-11-09
-- [py-count-value](https://xomdata.com/practice/py-count-value) · Easy · 2026-11-09
-- [hard-ltv-004](https://xomdata.com/practice/hard-ltv-004) · Hard · 2026-11-09
-- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-11-09
-- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-11-09
-- [py-vnd-to-usd](https://xomdata.com/practice/py-vnd-to-usd) · Easy · 2026-11-09
+- [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-11-13
+- [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-11-13
+- [py-leap-year](https://xomdata.com/practice/py-leap-year) · Easy · 2026-11-13
+- [py-digit-sum](https://xomdata.com/practice/py-digit-sum) · Easy · 2026-11-12
+- [py-title-case](https://xomdata.com/practice/py-title-case) · Easy · 2026-11-12
+- [nightmare-consecutive-001](https://xomdata.com/practice/nightmare-consecutive-001) · Nightmare · 2026-11-12
+- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-11-12
+- [py-index-of-max](https://xomdata.com/practice/py-index-of-max) · Easy · 2026-11-12
+- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-11-12
+- [py-ticket-price](https://xomdata.com/practice/py-ticket-price) · Easy · 2026-11-12
 
-_Synced 296 solutions · last update 2026-11-10_
+_Synced 315 solutions · last update 2026-11-13_
 
 <!-- xomdata:stats:end -->
