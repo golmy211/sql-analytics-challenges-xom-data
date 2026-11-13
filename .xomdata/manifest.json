@@ -313,5 +313,14 @@
   "practice/python/easy/py-digit-sum/solution.py": "2a7cbb3ddd872f40c45a856f563c42ebaac2eeefcf1aefd77bebcb2b9fb6843a",
   "practice/python/easy/py-leap-year/solution.py": "60ea47c1774ca190bc99a9c4050ce1cb787508c9dcf8836c25318ad94154ed97",
   "practice/python/easy/py-shipping-fee/solution.py": "33775455acdeeb4cdcd98d3d51195e851e6cc840efb13494133eabd0aa4e26f7",
-  "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "d6a7d0509fdf59cdaba605a3b47169608a30d11ad1b4603933b4b0a355ed3e26"
+  "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "d6a7d0509fdf59cdaba605a3b47169608a30d11ad1b4603933b4b0a355ed3e26",
+  "practice/python/easy/py-has-prefix/solution.py": "15c9a50fa53c8f3714b17a7f389e0828b8de39203fdce0322fc30a838806f9f1",
+  "practice/python/easy/py-triangle-valid/solution.py": "aa50b575e486d6a959fcb54ad999a1762e6423c3e683f38ae35e9036ac84426d",
+  "practice/python/easy/py-sorted-keys/solution.py": "469da2e565b92628698ae38f3d71204ae4b092fb5efd7c79a1aa9d740c21f69f",
+  "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql": "a6d1a7da9439b79ff2781144125d12c2d9e3be088212141aea60ffb81fd4434a",
+  "practice/python/easy/py-discount-tier/solution.py": "fc871a714f6db4290413042cd5a11b8f1860fc5f9f62391cefe914bbf8ec7eab",
+  "practice/python/easy/py-slugify-space/solution.py": "f0c3dfbed4e56b278bebb2cac36af2a11886ef7631e6a866929c245cede90cc1",
+  "practice/python/easy/py-split-bill/solution.py": "76d49ee2431a8e0a20f4f745e88b28b8ca04a9d8a7d52a93a34f7adaf6f5602a",
+  "practice/python/easy/py-in-stock/solution.py": "76ff6e7621b524bad71185b1534dc30da160453ddc42983dfe4ca0ce433dc17c",
+  "practice/python/easy/py-tip-amount/solution.py": "1b61a5dccaad2b4f375dbcd40d1e7f303e86f968963fcacde6dba2af1b3c3329"
 }
