@@ -322,5 +322,9 @@
   "practice/python/easy/py-slugify-space/solution.py": "f0c3dfbed4e56b278bebb2cac36af2a11886ef7631e6a866929c245cede90cc1",
   "practice/python/easy/py-split-bill/solution.py": "76d49ee2431a8e0a20f4f745e88b28b8ca04a9d8a7d52a93a34f7adaf6f5602a",
   "practice/python/easy/py-in-stock/solution.py": "76ff6e7621b524bad71185b1534dc30da160453ddc42983dfe4ca0ce433dc17c",
-  "practice/python/easy/py-tip-amount/solution.py": "1b61a5dccaad2b4f375dbcd40d1e7f303e86f968963fcacde6dba2af1b3c3329"
+  "practice/python/easy/py-tip-amount/solution.py": "1b61a5dccaad2b4f375dbcd40d1e7f303e86f968963fcacde6dba2af1b3c3329",
+  "practice/python/easy/py-best-branch/solution.py": "7708007f8885e8eb31b8e1d2d94ccb7f7c404ca45a8bb77d2d8d1216bdecab13",
+  "practice/sql/hard/hard-streak-004/solution.sql": "b5d74451687e4349f09806b52e87d40692969cf936032aa36890a70e1b66ecc1",
+  "practice/sql/hard/hard-rfm-007/solution.sql": "79cdfef3d39767a25303b7b0680b170f79c31822b06036ca6e48a0c9723f88d0",
+  "practice/sql/hard/hard-rfm-003/solution.sql": "5af2a7ea98004f9d89a941ca912d7e0e18ece739ce7cf38ca49ddbb4ceca1892"
 }
