@@ -4,26 +4,26 @@ ALL my SQL challenges from XomData
 
 <!-- xomdata:stats:start -->
 
-**328** problems solved on [Xom Data](https://xomdata.com/practice).
+**341** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 39 | 0 | 0 | 0 | 39 |
-| SQL | 88 | 119 | 66 | 16 | 289 |
+| Python | 42 | 0 | 0 | 0 | 42 |
+| SQL | 88 | 122 | 72 | 17 | 299 |
 
 **Recently solved**
 
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-11-15
-- [hard-rfm-007](https://xomdata.com/practice/hard-rfm-007) · Hard · 2026-11-15
-- [hard-streak-004](https://xomdata.com/practice/hard-streak-004) · Hard · 2026-11-15
-- [py-best-branch](https://xomdata.com/practice/py-best-branch) · Easy · 2026-11-15
-- [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-11-13
-- [py-in-stock](https://xomdata.com/practice/py-in-stock) · Easy · 2026-11-13
-- [py-split-bill](https://xomdata.com/practice/py-split-bill) · Easy · 2026-11-13
-- [py-slugify-space](https://xomdata.com/practice/py-slugify-space) · Easy · 2026-11-13
-- [py-discount-tier](https://xomdata.com/practice/py-discount-tier) · Easy · 2026-11-13
-- [nightmare-top3-dept-001](https://xomdata.com/practice/nightmare-top3-dept-001) · Nightmare · 2026-11-13
+- [sql-growth-02-who-reference](https://xomdata.com/practice/sql-growth-02-who-reference) · Medium · 2026-11-19
+- [hard-rfm-010](https://xomdata.com/practice/hard-rfm-010) · Hard · 2026-11-18
+- [py-merge-alternate](https://xomdata.com/practice/py-merge-alternate) · Easy · 2026-11-18
+- [hard-ltv-005](https://xomdata.com/practice/hard-ltv-005) · Hard · 2026-11-18
+- [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-11-18
+- [sql-growth-05-underweight-classification](https://xomdata.com/practice/sql-growth-05-underweight-classification) · Medium · 2026-11-18
+- [sql-growth-01-under-five-cohort](https://xomdata.com/practice/sql-growth-01-under-five-cohort) · Medium · 2026-11-17
+- [hard-anomaly-001](https://xomdata.com/practice/hard-anomaly-001) · Hard · 2026-11-17
+- [sql-nightmare-004](https://xomdata.com/practice/sql-nightmare-004) · Nightmare · 2026-11-16
+- [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-11-16
 
-_Synced 328 solutions · last update 2026-11-15_
+_Synced 341 solutions · last update 2026-11-19_
 
 <!-- xomdata:stats:end -->

@@ -326,5 +326,18 @@
   "practice/python/easy/py-best-branch/solution.py": "7708007f8885e8eb31b8e1d2d94ccb7f7c404ca45a8bb77d2d8d1216bdecab13",
   "practice/sql/hard/hard-streak-004/solution.sql": "b5d74451687e4349f09806b52e87d40692969cf936032aa36890a70e1b66ecc1",
   "practice/sql/hard/hard-rfm-007/solution.sql": "79cdfef3d39767a25303b7b0680b170f79c31822b06036ca6e48a0c9723f88d0",
-  "practice/sql/hard/hard-rfm-003/solution.sql": "5af2a7ea98004f9d89a941ca912d7e0e18ece739ce7cf38ca49ddbb4ceca1892"
+  "practice/sql/hard/hard-rfm-003/solution.sql": "5af2a7ea98004f9d89a941ca912d7e0e18ece739ce7cf38ca49ddbb4ceca1892",
+  "practice/python/easy/py-celsius-to-f/solution.py": "fc0683e7bf56197865faf15f8be17379575093bd4af3f70e6f24b288dddb7932",
+  "practice/python/easy/py-sum-to-n/solution.py": "64101fae43930277be6d22fe3bc8d48a4db94f1ebffe8a8b59d775c7274978b0",
+  "practice/sql/hard/hard-rfm-006/solution.sql": "3854efeada14fc54f0a256a163b2f460112db36bae0db96a6e61329cf038b785",
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "68f895a5893e4f310fce28a9e26ada1cc3046fa8a61496e23bc2d1d5f52932b7",
+  "practice/sql/nightmare/sql-nightmare-004/solution.sql": "e756682bbcb8fe46a06672a465aea0641ec3a69f686968d1981cf9bc493b6cc5",
+  "practice/sql/hard/hard-anomaly-001/solution.sql": "ba45398da27b0eeb67e1888a1b05b9b38e7f2d967df53313c5a9c95240556279",
+  "practice/sql/medium/sql-growth-01-under-five-cohort/solution.sql": "536040ac08fd5f474e055f827497fc1c4c2205ef07b8fca4ad91197ccc03abd9",
+  "practice/sql/medium/sql-growth-05-underweight-classification/solution.sql": "09af939c029f403363f605ea70be5023e7d7a62d60f56b3a11c539eb199255ab",
+  "practice/sql/hard/hard-mrr-001/solution.sql": "2d41a1e55626eed69549d30ac71838eb3bdf7e10a4341502a001830b67eb5c71",
+  "practice/sql/hard/hard-ltv-005/solution.sql": "07a1437ac9cc1a1ad6247f2ac4ed1415144ef667b46bd385a400383b8743d8a5",
+  "practice/python/easy/py-merge-alternate/solution.py": "5542b8ca3364ed1876948173ceba2eff01961571443155410acafb4918e5507b",
+  "practice/sql/hard/hard-rfm-010/solution.sql": "c67377ad4e2409d590db3abb02e6dedfbdd1b8bf73a1cbcb23fe2fb3758b87ef",
+  "practice/sql/medium/sql-growth-02-who-reference/solution.sql": "3ed25145aaa0660554cfcb34514156c8649ba3fb8245402232fa7fa31c01ecd7"
 }
